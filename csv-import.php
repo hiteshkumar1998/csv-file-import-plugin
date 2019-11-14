@@ -98,15 +98,8 @@ function deactivate_table()
 
 register_uninstall_hook(__FILE__,'deactivate_table');
 
-
-
 function csv_import_ajax()
 {
-	
-    
-	
-		echo 'hello';
-	
 	wp_die();
 }
 
