@@ -91,9 +91,9 @@
 					 
                   </div>
                   <div class="form-group">
-					<input type="submit" name="submit" class="btn btn-success" value="Import" />
-				  </div>
-				  <span style="font-size:20px;" class="text-primary">Last updated at &#8212;  <?php echo $record[0]->last_update; ?></span>
+			<input type="submit" name="submit" class="btn btn-success" value="Import" />
+		  </div>
+		  <span style="font-size:20px;" class="text-primary">Last updated at &#8212;  <?php echo $record[0]->last_update; ?></span>
                </form>
             </div>
          </div>
